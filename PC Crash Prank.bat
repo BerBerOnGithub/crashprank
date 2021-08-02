@@ -1,0 +1,3 @@
+:crashtime
+start
+goto :crashtime
